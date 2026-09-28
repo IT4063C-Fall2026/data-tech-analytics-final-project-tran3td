@@ -4,10 +4,12 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-ipykernel = "*"
 jupyter = "*"
 notebook = "*"
 black = "*"
+pandas = "*"
+requests = "*"
+ipykernel = "*"
 
 [dev-packages]
 
