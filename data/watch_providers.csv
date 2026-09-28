@@ -1,0 +1,214 @@
+tmdbId,provider_id,provider_name,access_type,country
+278,257,fuboTV,flatrate,US
+278,583,MGM+ Amazon Channel,flatrate,US
+278,2383,Philo,flatrate,US
+278,636,MGM Plus Roku Premium Channel,flatrate,US
+278,10,Amazon Video,rent,US
+278,2,Apple TV Store,rent,US
+278,3,Google Play Movies,rent,US
+278,192,YouTube,rent,US
+278,7,Fandango At Home,rent,US
+278,486,Spectrum On Demand,rent,US
+278,538,Plex,rent,US
+278,10,Amazon Video,buy,US
+278,2,Apple TV Store,buy,US
+278,3,Google Play Movies,buy,US
+278,192,YouTube,buy,US
+278,7,Fandango At Home,buy,US
+238,257,fuboTV,flatrate,US
+238,583,MGM+ Amazon Channel,flatrate,US
+238,2303,Paramount Plus Premium,flatrate,US
+238,2616,Paramount Plus Essential,flatrate,US
+238,2383,Philo,flatrate,US
+238,582,Paramount+ Amazon Channel,flatrate,US
+238,636,MGM Plus Roku Premium Channel,flatrate,US
+238,34,MGM Plus,flatrate,US
+238,633,Paramount+ Roku Premium Channel,flatrate,US
+238,2285,JustWatch TV,rent,US
+238,10,Amazon Video,rent,US
+238,2,Apple TV Store,rent,US
+238,3,Google Play Movies,rent,US
+238,192,YouTube,rent,US
+238,7,Fandango At Home,rent,US
+238,331,FlixFling,rent,US
+238,486,Spectrum On Demand,rent,US
+238,10,Amazon Video,buy,US
+238,2,Apple TV Store,buy,US
+238,3,Google Play Movies,buy,US
+238,192,YouTube,buy,US
+238,7,Fandango At Home,buy,US
+155,1825,HBO Max Amazon Channel,flatrate,US
+155,2528,YouTube TV,flatrate,US
+155,363,TNT,flatrate,US
+155,506,TBS,flatrate,US
+155,507,tru TV,flatrate,US
+155,1899,HBO Max,flatrate,US
+155,10,Amazon Video,rent,US
+155,2,Apple TV Store,rent,US
+155,3,Google Play Movies,rent,US
+155,192,YouTube,rent,US
+155,7,Fandango At Home,rent,US
+155,10,Amazon Video,buy,US
+155,2,Apple TV Store,buy,US
+155,3,Google Play Movies,buy,US
+155,192,YouTube,buy,US
+155,7,Fandango At Home,buy,US
+122,1825,HBO Max Amazon Channel,flatrate,US
+122,2528,YouTube TV,flatrate,US
+122,1899,HBO Max,flatrate,US
+122,10,Amazon Video,rent,US
+122,2,Apple TV Store,rent,US
+122,3,Google Play Movies,rent,US
+122,192,YouTube,rent,US
+122,7,Fandango At Home,rent,US
+122,486,Spectrum On Demand,rent,US
+122,538,Plex,rent,US
+122,10,Amazon Video,buy,US
+122,2,Apple TV Store,buy,US
+122,3,Google Play Movies,buy,US
+122,192,YouTube,buy,US
+122,7,Fandango At Home,buy,US
+424,10,Amazon Video,rent,US
+424,2,Apple TV Store,rent,US
+424,3,Google Play Movies,rent,US
+424,192,YouTube,rent,US
+424,7,Fandango At Home,rent,US
+424,331,FlixFling,rent,US
+424,10,Amazon Video,buy,US
+424,2,Apple TV Store,buy,US
+424,3,Google Play Movies,buy,US
+424,192,YouTube,buy,US
+424,7,Fandango At Home,buy,US
+240,257,fuboTV,flatrate,US
+240,583,MGM+ Amazon Channel,flatrate,US
+240,2303,Paramount Plus Premium,flatrate,US
+240,2616,Paramount Plus Essential,flatrate,US
+240,2383,Philo,flatrate,US
+240,582,Paramount+ Amazon Channel,flatrate,US
+240,34,MGM Plus,flatrate,US
+240,633,Paramount+ Roku Premium Channel,flatrate,US
+240,2285,JustWatch TV,rent,US
+240,10,Amazon Video,rent,US
+240,2,Apple TV Store,rent,US
+240,3,Google Play Movies,rent,US
+240,192,YouTube,rent,US
+240,7,Fandango At Home,rent,US
+240,331,FlixFling,rent,US
+240,486,Spectrum On Demand,rent,US
+240,538,Plex,rent,US
+240,10,Amazon Video,buy,US
+240,2,Apple TV Store,buy,US
+240,3,Google Play Movies,buy,US
+240,192,YouTube,buy,US
+240,7,Fandango At Home,buy,US
+389,15,Hulu,flatrate,US
+389,257,fuboTV,flatrate,US
+389,583,MGM+ Amazon Channel,flatrate,US
+389,636,MGM Plus Roku Premium Channel,flatrate,US
+389,34,MGM Plus,flatrate,US
+389,191,Kanopy,free,US
+389,212,Hoopla,free,US
+389,2409,Fawesome,free,US
+389,235,YouTube Free,ads,US
+389,73,Tubi TV,ads,US
+389,10,Amazon Video,rent,US
+389,2,Apple TV Store,rent,US
+389,3,Google Play Movies,rent,US
+389,192,YouTube,rent,US
+389,7,Fandango At Home,rent,US
+389,486,Spectrum On Demand,rent,US
+389,10,Amazon Video,buy,US
+389,2,Apple TV Store,buy,US
+389,3,Google Play Movies,buy,US
+389,192,YouTube,buy,US
+389,7,Fandango At Home,buy,US
+120,1825,HBO Max Amazon Channel,flatrate,US
+120,2528,YouTube TV,flatrate,US
+120,1899,HBO Max,flatrate,US
+120,10,Amazon Video,rent,US
+120,2,Apple TV Store,rent,US
+120,3,Google Play Movies,rent,US
+120,192,YouTube,rent,US
+120,7,Fandango At Home,rent,US
+120,486,Spectrum On Demand,rent,US
+120,538,Plex,rent,US
+120,10,Amazon Video,buy,US
+120,2,Apple TV Store,buy,US
+120,3,Google Play Movies,buy,US
+120,192,YouTube,buy,US
+120,7,Fandango At Home,buy,US
+27205,1866,ViX Premium Amazon Channel,flatrate,US
+27205,10,Amazon Video,rent,US
+27205,2,Apple TV Store,rent,US
+27205,3,Google Play Movies,rent,US
+27205,192,YouTube,rent,US
+27205,7,Fandango At Home,rent,US
+27205,486,Spectrum On Demand,rent,US
+27205,538,Plex,rent,US
+27205,10,Amazon Video,buy,US
+27205,2,Apple TV Store,buy,US
+27205,3,Google Play Movies,buy,US
+27205,192,YouTube,buy,US
+27205,7,Fandango At Home,buy,US
+550,10,Amazon Video,rent,US
+550,2,Apple TV Store,rent,US
+550,3,Google Play Movies,rent,US
+550,192,YouTube,rent,US
+550,7,Fandango At Home,rent,US
+550,10,Amazon Video,buy,US
+550,2,Apple TV Store,buy,US
+550,3,Google Play Movies,buy,US
+550,192,YouTube,buy,US
+550,7,Fandango At Home,buy,US
+13,2303,Paramount Plus Premium,flatrate,US
+13,2616,Paramount Plus Essential,flatrate,US
+13,582,Paramount+ Amazon Channel,flatrate,US
+13,2528,YouTube TV,flatrate,US
+13,191,Kanopy,free,US
+13,10,Amazon Video,rent,US
+13,2,Apple TV Store,rent,US
+13,3,Google Play Movies,rent,US
+13,192,YouTube,rent,US
+13,7,Fandango At Home,rent,US
+13,331,FlixFling,rent,US
+13,486,Spectrum On Demand,rent,US
+13,538,Plex,rent,US
+13,10,Amazon Video,buy,US
+13,2,Apple TV Store,buy,US
+13,3,Google Play Movies,buy,US
+13,192,YouTube,buy,US
+13,7,Fandango At Home,buy,US
+680,9,Amazon Prime Video,flatrate,US
+680,257,fuboTV,flatrate,US
+680,2303,Paramount Plus Premium,flatrate,US
+680,2616,Paramount Plus Essential,flatrate,US
+680,582,Paramount+ Amazon Channel,flatrate,US
+680,2528,YouTube TV,flatrate,US
+680,633,Paramount+ Roku Premium Channel,flatrate,US
+680,2100,Amazon Prime Video with Ads,flatrate,US
+680,10,Amazon Video,rent,US
+680,2,Apple TV Store,rent,US
+680,3,Google Play Movies,rent,US
+680,192,YouTube,rent,US
+680,7,Fandango At Home,rent,US
+680,486,Spectrum On Demand,rent,US
+680,538,Plex,rent,US
+680,10,Amazon Video,buy,US
+680,2,Apple TV Store,buy,US
+680,3,Google Play Movies,buy,US
+680,192,YouTube,buy,US
+680,7,Fandango At Home,buy,US
+121,1825,HBO Max Amazon Channel,flatrate,US
+121,2528,YouTube TV,flatrate,US
+121,1899,HBO Max,flatrate,US
+121,10,Amazon Video,rent,US
+121,2,Apple TV Store,rent,US
+121,3,Google Play Movies,rent,US
+121,192,YouTube,rent,US
+121,7,Fandango At Home,rent,US
+121,538,Plex,rent,US
+121,10,Amazon Video,buy,US
+121,2,Apple TV Store,buy,US
+121,3,Google Play Movies,buy,US
+121,192,YouTube,buy,US
+121,7,Fandango At Home,buy,US

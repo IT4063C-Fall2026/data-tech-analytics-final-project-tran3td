@@ -1,0 +1,69 @@
+movieId,title,genres,imdbId,tmdbId,tconst,averageRating,numVotes,provider_id,provider_name,access_type,country
+170705,Band of Brothers (2001),Action|Drama|War,185906,331214,tt0185906,9.4,606350.0,,,,
+159817,Planet Earth (2006),Documentary,795176,192040,tt0795176,9.4,236948.0,,,,
+171011,Planet Earth II (2016),Documentary,5491994,420714,tt5491994,9.4,177044.0,,,,
+318,"Shawshank Redemption, The (1994)",Crime|Drama,111161,278,tt0111161,9.3,3243182.0,257.0,fuboTV,flatrate,US
+318,"Shawshank Redemption, The (1994)",Crime|Drama,111161,278,tt0111161,9.3,3243182.0,583.0,MGM+ Amazon Channel,flatrate,US
+318,"Shawshank Redemption, The (1994)",Crime|Drama,111161,278,tt0111161,9.3,3243182.0,2383.0,Philo,flatrate,US
+318,"Shawshank Redemption, The (1994)",Crime|Drama,111161,278,tt0111161,9.3,3243182.0,636.0,MGM Plus Roku Premium Channel,flatrate,US
+179135,Blue Planet II (2017),Documentary,6769208,463612,tt6769208,9.3,58749.0,,,,
+171495,Cosmos,(no genres listed),81846,409926,tt0081846,9.3,53803.0,,,,
+858,"Godfather, The (1972)",Crime|Drama,68646,238,tt0068646,9.2,2259187.0,257.0,fuboTV,flatrate,US
+858,"Godfather, The (1972)",Crime|Drama,68646,238,tt0068646,9.2,2259187.0,583.0,MGM+ Amazon Channel,flatrate,US
+858,"Godfather, The (1972)",Crime|Drama,68646,238,tt0068646,9.2,2259187.0,2303.0,Paramount Plus Premium,flatrate,US
+858,"Godfather, The (1972)",Crime|Drama,68646,238,tt0068646,9.2,2259187.0,2616.0,Paramount Plus Essential,flatrate,US
+858,"Godfather, The (1972)",Crime|Drama,68646,238,tt0068646,9.2,2259187.0,2383.0,Philo,flatrate,US
+858,"Godfather, The (1972)",Crime|Drama,68646,238,tt0068646,9.2,2259187.0,582.0,Paramount+ Amazon Channel,flatrate,US
+858,"Godfather, The (1972)",Crime|Drama,68646,238,tt0068646,9.2,2259187.0,636.0,MGM Plus Roku Premium Channel,flatrate,US
+858,"Godfather, The (1972)",Crime|Drama,68646,238,tt0068646,9.2,2259187.0,34.0,MGM Plus,flatrate,US
+858,"Godfather, The (1972)",Crime|Drama,68646,238,tt0068646,9.2,2259187.0,633.0,Paramount+ Roku Premium Channel,flatrate,US
+58559,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX,468569,155,tt0468569,9.1,3231221.0,1825.0,HBO Max Amazon Channel,flatrate,US
+58559,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX,468569,155,tt0468569,9.1,3231221.0,2528.0,YouTube TV,flatrate,US
+58559,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX,468569,155,tt0468569,9.1,3231221.0,363.0,TNT,flatrate,US
+58559,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX,468569,155,tt0468569,9.1,3231221.0,506.0,TBS,flatrate,US
+58559,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX,468569,155,tt0468569,9.1,3231221.0,507.0,tru TV,flatrate,US
+58559,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX,468569,155,tt0468569,9.1,3231221.0,1899.0,HBO Max,flatrate,US
+174053,Black Mirror: White Christmas (2014),Drama|Horror|Mystery|Sci-Fi|Thriller,3973198,374430,tt3973198,9.1,81059.0,,,,
+7153,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy,167260,122,tt0167260,9.0,2195747.0,1825.0,HBO Max Amazon Channel,flatrate,US
+7153,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy,167260,122,tt0167260,9.0,2195747.0,2528.0,YouTube TV,flatrate,US
+7153,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy,167260,122,tt0167260,9.0,2195747.0,1899.0,HBO Max,flatrate,US
+527,Schindler's List (1993),Drama|War,108052,424,tt0108052,9.0,1605184.0,,,,
+1221,"Godfather: Part II, The (1974)",Crime|Drama,71562,240,tt0071562,9.0,1515166.0,257.0,fuboTV,flatrate,US
+1221,"Godfather: Part II, The (1974)",Crime|Drama,71562,240,tt0071562,9.0,1515166.0,583.0,MGM+ Amazon Channel,flatrate,US
+1221,"Godfather: Part II, The (1974)",Crime|Drama,71562,240,tt0071562,9.0,1515166.0,2303.0,Paramount Plus Premium,flatrate,US
+1221,"Godfather: Part II, The (1974)",Crime|Drama,71562,240,tt0071562,9.0,1515166.0,2616.0,Paramount Plus Essential,flatrate,US
+1221,"Godfather: Part II, The (1974)",Crime|Drama,71562,240,tt0071562,9.0,1515166.0,2383.0,Philo,flatrate,US
+1221,"Godfather: Part II, The (1974)",Crime|Drama,71562,240,tt0071562,9.0,1515166.0,582.0,Paramount+ Amazon Channel,flatrate,US
+1221,"Godfather: Part II, The (1974)",Crime|Drama,71562,240,tt0071562,9.0,1515166.0,34.0,MGM Plus,flatrate,US
+1221,"Godfather: Part II, The (1974)",Crime|Drama,71562,240,tt0071562,9.0,1515166.0,633.0,Paramount+ Roku Premium Channel,flatrate,US
+1203,12 Angry Men (1957),Drama,50083,389,tt0050083,9.0,1004537.0,15.0,Hulu,flatrate,US
+1203,12 Angry Men (1957),Drama,50083,389,tt0050083,9.0,1004537.0,257.0,fuboTV,flatrate,US
+1203,12 Angry Men (1957),Drama,50083,389,tt0050083,9.0,1004537.0,583.0,MGM+ Amazon Channel,flatrate,US
+1203,12 Angry Men (1957),Drama,50083,389,tt0050083,9.0,1004537.0,636.0,MGM Plus Roku Premium Channel,flatrate,US
+1203,12 Angry Men (1957),Drama,50083,389,tt0050083,9.0,1004537.0,34.0,MGM Plus,flatrate,US
+142115,The Blue Planet (2001),Documentary,296310,200813,tt0296310,9.0,51397.0,,,,
+100553,Frozen Planet (2011),Documentary,2092588,134481,tt2092588,9.0,40707.0,,,,
+100044,Human Planet (2011),Documentary,1806234,69372,tt1806234,9.0,34379.0,,,,
+93040,"Civil War, The (1990)",Documentary|War,98769,26397,tt0098769,9.0,26615.0,,,,
+4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy,120737,120,tt0120737,8.9,2239682.0,1825.0,HBO Max Amazon Channel,flatrate,US
+4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy,120737,120,tt0120737,8.9,2239682.0,2528.0,YouTube TV,flatrate,US
+4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy,120737,120,tt0120737,8.9,2239682.0,1899.0,HBO Max,flatrate,US
+171749,Death Note: Desu nôto (2006–2007),(no genres listed),877057,419787,tt0877057,8.9,500737.0,,,,
+185135,Sherlock - A Study in Pink (2010),Crime,1665071,500609,tt1665071,8.9,37104.0,,,,
+79132,Inception (2010),Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX,1375666,27205,tt1375666,8.8,2872813.0,1866.0,ViX Premium Amazon Channel,flatrate,US
+2959,Fight Club (1999),Action|Crime|Drama|Thriller,137523,550,tt0137523,8.8,2665448.0,,,,
+356,Forrest Gump (1994),Comedy|Drama|Romance|War,109830,13,tt0109830,8.8,2538182.0,2303.0,Paramount Plus Premium,flatrate,US
+356,Forrest Gump (1994),Comedy|Drama|Romance|War,109830,13,tt0109830,8.8,2538182.0,2616.0,Paramount Plus Essential,flatrate,US
+356,Forrest Gump (1994),Comedy|Drama|Romance|War,109830,13,tt0109830,8.8,2538182.0,582.0,Paramount+ Amazon Channel,flatrate,US
+356,Forrest Gump (1994),Comedy|Drama|Romance|War,109830,13,tt0109830,8.8,2538182.0,2528.0,YouTube TV,flatrate,US
+296,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller,110912,680,tt0110912,8.8,2470450.0,9.0,Amazon Prime Video,flatrate,US
+296,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller,110912,680,tt0110912,8.8,2470450.0,257.0,fuboTV,flatrate,US
+296,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller,110912,680,tt0110912,8.8,2470450.0,2303.0,Paramount Plus Premium,flatrate,US
+296,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller,110912,680,tt0110912,8.8,2470450.0,2616.0,Paramount Plus Essential,flatrate,US
+296,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller,110912,680,tt0110912,8.8,2470450.0,582.0,Paramount+ Amazon Channel,flatrate,US
+296,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller,110912,680,tt0110912,8.8,2470450.0,2528.0,YouTube TV,flatrate,US
+296,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller,110912,680,tt0110912,8.8,2470450.0,633.0,Paramount+ Roku Premium Channel,flatrate,US
+296,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller,110912,680,tt0110912,8.8,2470450.0,2100.0,Amazon Prime Video with Ads,flatrate,US
+5952,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy,167261,121,tt0167261,8.8,1986119.0,1825.0,HBO Max Amazon Channel,flatrate,US
+5952,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy,167261,121,tt0167261,8.8,1986119.0,2528.0,YouTube TV,flatrate,US
+5952,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy,167261,121,tt0167261,8.8,1986119.0,1899.0,HBO Max,flatrate,US
